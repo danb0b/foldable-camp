@@ -1,2 +1,4 @@
+mkdocs
 mkdocs-glightbox
 mkdocs-rss-plugin 
+mkdocs-material
