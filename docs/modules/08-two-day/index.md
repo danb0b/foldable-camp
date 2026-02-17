@@ -94,13 +94,33 @@ title: Day 1
 
 ## Jumping Bird
 
-![](video/Swiss Scientists Create Bird-Like Robot That Jumps Into Flight ｜ EPFL Switzerland 2025 [wBzmQl8EvMc].mp4){style="max-height:6in;max-width:100%;"}
+![](video/41586_2024_8228_MOESM2_ESM.mp4){style="max-height:6in;max-width:100%;"}
 
-::: {style="font-size:12pt;"}
+## Jumping Bird
 
-<https://www.youtube.com/watch?v=2dl6UW6FHDc>
+![](video/41586_2024_8228_MOESM3_ESM.mp4){style="max-height:6in;max-width:100%;"}
 
-:::
+## Jumping Bird
+
+![](video/41586_2024_8228_MOESM4_ESM.mp4){style="max-height:6in;max-width:100%;"}
+
+## Jumping Bird
+
+![](video/41586_2024_8228_MOESM5_ESM.mp4){style="max-height:6in;max-width:100%;"}
+
+## Jumping Bird
+
+![](video/41586_2024_8228_MOESM6_ESM.mp4){style="max-height:6in;max-width:100%;"}
+
+## Jumping Bird
+
+![](video/41586_2024_8228_MOESM7_ESM.mp4){style="max-height:6in;max-width:100%;"}
+
+
+## Insect-inspired Microrobots
+
+![](video/The superpower of bio-inspired robotic insects ｜ Kevin Chen ｜ TEDxMIT Salon [hsXxfonq_J8].mp4){style="max-height:6in;max-width:100%;"}
+
 
 # BioMechanics
 
@@ -131,18 +151,15 @@ title: Day 1
 ![](video/Sand Flea Jumping Robot [6b4ZZQkcNEo].mp4){style="max-height:6in;max-width:100%;"} 
 -->
 
-## Insect-inspired Microrobots
 
-![](video/The superpower of bio-inspired robotic insects ｜ Kevin Chen ｜ TEDxMIT Salon [hsXxfonq_J8].mp4){style="max-height:6in;max-width:100%;"}
+# Deployable Structures
 
-# Mechanisms
-
-## Deployable Structures
+## Domes
 
 ![](images/iris-pavillion-transformable-design-1024x1024.webp){style="height:2.5in;margin:0px;spacing:0px;"}
 ![](images/what-is-transformable-design-1024x397.webp){style="height:2.5in;margin:0px;spacing:0px;"}
 
-## Origami Inspired Deployable Structures
+## Origami-Inspired Deployable Structures
 
 <https://www.pinterest.com/pin/405253666445990755/>
 
@@ -154,6 +171,8 @@ title: Day 1
 
 ![](video/Theo Jansen’s Wind-Powered Sculptures ｜ The New Yorker [Pj-NqWDH2qE].mp4){style="max-height:6in;max-width:100%;"}
 
+# Tensegrity Devices
+
 ## Tensegrity Devices
 
 ![](images/Tensegrity-Modell-blackjpg-scaled.jpg){style="height:2.5in;margin:0px;spacing:0px;"}
@@ -162,6 +181,8 @@ title: Day 1
 ## Tensegrity Robots
 
 ![](video/Bio inspired Tensegrity Soft Modular Robots [bb3sY0eauEs].mp4){style="max-height:6in;max-width:100%;"}
+
+# Curved Crease Concepts
 
 ## Kiriform
 
@@ -173,6 +194,7 @@ title: Day 1
 ![](images/Yanyi-Fashion-Customized-Cardboard-Chocolate-Folding-Box-Jewelry-Wigs-Luxury-Chocolate-Packaging-Storage-Gift-Box.webp){style="height:2.5in;margin:0px;spacing:0px;"}
 ![](images/OIP-542823821.jpg){style="height:2.5in;margin:0px;spacing:0px;"}
 ![](images/ups4.jpg){style="height:2.5in;margin:0px;spacing:0px;"}
+![](images/packaging_concept_2.jpg){style="height:2.5in;margin:0px;spacing:0px;"}
 
 ## Creative Folding for Leaflets
 
@@ -199,11 +221,11 @@ title: Day 1
 
 # Popup Books
 
-## Popup Book Mechanism Examples 1
+## Popup Examples 1
 
 ![](video/Sampler Pop-up Mechanism Booklet by Eni Oken [rPqWkTFpY0w].mp4){style="max-height:6in;max-width:100%;"}
 
-## Popup Book Mechanism Examples 2
+## Popup Examples 2
 
 ![](video/Sampler Pop-up Mechanism Booklet 2 Eni Oken [cSsdKW-nFhE].mp4){style="max-height:6in;max-width:100%;"}
 
