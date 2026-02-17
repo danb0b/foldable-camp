@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+shrink-videos videos.yaml -q 31 -p fast -v 
