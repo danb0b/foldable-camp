@@ -1,5 +1,5 @@
 ---
-title: Day 1
+title: Foldable Robotics
 ---
 
 # About Me
