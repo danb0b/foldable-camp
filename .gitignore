@@ -1,3 +1,7 @@
 docs/modules/08-two-day/video/*
 gitignore/*
 docs/modules/**/*.html
+docs/modules/08-two-day-1/video/*
+docs/modules/08-two-day-1/thumb/*
+docs/modules/09-two-day-2/video/*
+docs/modules/09-two-day-2/thumb/*

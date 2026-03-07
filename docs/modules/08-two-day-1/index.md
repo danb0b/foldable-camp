@@ -92,59 +92,7 @@ title: Foldable Robotics
 
 ![](video/Rope climbing robots [pgtKwCLNf2Y].mp4){style="max-height:6in;max-width:100%;"}
 
-## Jumping Bird
 
-![](video/41586_2024_8228_MOESM2_ESM.mp4){style="max-height:6in;max-width:100%;"}
-
-## Jumping Bird
-
-![](video/41586_2024_8228_MOESM3_ESM.mp4){style="max-height:6in;max-width:100%;"}
-
-## Jumping Bird
-
-![](video/41586_2024_8228_MOESM4_ESM.mp4){style="max-height:6in;max-width:100%;"}
-
-## Jumping Bird
-
-![](video/41586_2024_8228_MOESM5_ESM.mp4){style="max-height:6in;max-width:100%;"}
-
-## Jumping Bird
-
-![](video/41586_2024_8228_MOESM6_ESM.mp4){style="max-height:6in;max-width:100%;"}
-
-## Jumping Bird
-
-![](video/41586_2024_8228_MOESM7_ESM.mp4){style="max-height:6in;max-width:100%;"}
-
-
-## Insect-inspired Microrobots
-
-![](video/The superpower of bio-inspired robotic insects ｜ Kevin Chen ｜ TEDxMIT Salon [hsXxfonq_J8].mp4){style="max-height:6in;max-width:100%;"}
-
-
-# BioMechanics
-
-## Paleobionics
-
-![](video/Phil LeDuc and Carmel Majidi： Paleobionics： Robotics Inspired by Extinct Species [KMz26Q6Vh-g].mp4){style="max-height:6in;max-width:100%;"}
-
-## Paleo Biomechanics
-
-![](video/Video One [u2Y0frpVGpA].mp4){style="max-height:6in;max-width:100%;"}
-
-# Other Engineering
-
-## Morphing Drone
-
-![](video/A flying robot that can walk [MZhtJ0GGnOg].mp4){style="max-height:6in;max-width:100%;"}
-
-## Paddling Mechanism
-
-![](video/Swimming Robot [q4Q6VIvh6Hg].mp4){style="max-height:6in;max-width:100%;"}
-
-## Salto
-
-![](video/SALTO - Berkeley's Leaping Robot [e6PfPa19G8I].mp4){style="max-height:6in;max-width:100%;"}
 
 <!-- ##
 
